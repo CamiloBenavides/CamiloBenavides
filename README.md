@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Camilo Benavides👋</h1>
+<img src="https://github.com/CamiloBenavides/CamiloBenavides/blob/main/Banner-Github.jpg?raw=true" alt="banner that says Camilo Benavides - Software Developer">
 
 <!--
 **CamiloBenavides/CamiloBenavides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
